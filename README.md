@@ -4,7 +4,7 @@ This project show how do yuo should use [hibernate3-maven-plugin] to are generat
 
 ### Source reference
 
-- [jboss.org, Community Documentation] (http://docs.jboss.org/tools/4.0.0.Final/en/hibernatetools/html_single/index.html#hibernate_key_features)
+- [jboss.org, Community Documentation] (https://docs.jboss.org/tools/latest/en/hibernatetools/html/index.html)
 - [JBossDeveloper] (https://developer.jboss.org/thread/222171?_sscc=t)
 
 Test run:
